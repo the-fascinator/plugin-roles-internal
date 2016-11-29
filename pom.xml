@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.googlecode.the-fascinator.plugins</groupId>
   <artifactId>plugin-roles-internal</artifactId>
-  <version>1.4-SNAPSHOT</version>
+  <version>1.4</version>
   <name>The Fascinator - Plugin - Roles - Internal</name>
   <description>TODO</description>
   <url>http://fascinator.usq.edu.au/trac/wiki/tf2/DeveloperNotes/plugins/roles/internal</url>
@@ -16,12 +16,12 @@
     <dependency>
       <groupId>com.googlecode.the-fascinator</groupId>
       <artifactId>fascinator-common</artifactId>
-      <version>1.4-SNAPSHOT</version>
+      <version>1.4</version>
     </dependency>
     <dependency>
       <groupId>com.googlecode.the-fascinator</groupId>
       <artifactId>fascinator-plugin-api</artifactId>
-      <version>1.4-SNAPSHOT</version>
+      <version>1.4</version>
     </dependency>
     <dependency>
       <groupId>commons-codec</groupId>
